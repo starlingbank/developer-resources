@@ -1,6 +1,9 @@
 # Starling Developer Resources
 > A list of useful links, integrations with our banking API and the community projects that have caught our eye.
 
+## News & Updates
+#### 12th May 2017
+[:tada: An update on our API :tada:](https://www.starlingbank.com/api-update/) - An overview on the current status of the API and and what's coming up next.
 ## Useful Links
 - [:pound: Starling Site ](https://starlingbank.com) – The main Starling customer site.
 - [:squirrel: Developer Platform ](https://developer.starlingbank.com) – A place to tinker with our API.
@@ -9,11 +12,6 @@
 - [:octocat: Starling's Github](https://github.com/starlingbank) – Our current open-source offerings to help you connect.
 - [:warning: Service Status](http://starlingbank.statuspage.io/) – Is it just me?
 - [:rocket: Trello Roadmap](https://trello.com/b/wp8bOZPL/starling-developers-roadmap) - See what we're working on.
-
-## News & Updates
-
-[:tada: An update on our API :tada:](https://www.starlingbank.com/api-update/) - An overview on the current status of the API and and what's coming up next.
-
 
 ## Upcoming Integrations
 
