@@ -8,7 +8,7 @@
 - [:speaker: Developer Slack ](https://developer.starlingbank.com/community) – Ask questions, post suggestions, whatever!
 - [:octocat: Starling's Github](https://github.com/starlingbank) – Our current open-source offerings to help you connect.
 - [:warning: Service Status](http://starlingbank.statuspage.io/) – Is it just me?
-- [:calendar: Trello Roadmap](https://trello.com/b/wp8bOZPL/starling-developers-roadmap) - See what we're working on.
+- [:rocket: Trello Roadmap](https://trello.com/b/wp8bOZPL/starling-developers-roadmap) - See what we're working on.
 
 ## News & Updates
 
