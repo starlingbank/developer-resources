@@ -62,8 +62,8 @@ If you would like to create your own, the below repos are a good place to start,
 - [ Starling Hackathon @Campus London ](https://www.youtube.com/watch?v=bzd5EKDrXSc) 
 
 ## In the Press
-- [ __Forbes__: Open Banking Contagion In The UK ](https://www.forbes.com/sites/lawrencewintermeyer/2017/04/07/open-banking-contagion-in-the-uk/#20734f748af5)
-- [ __Finextra__: Starling releases Open API, talks up marketplace model ](https://www.finextra.com/newsarticle/30183/starling-releases-open-api-talks-up-marketplace-model)
-- [ __Banking Tech__: Starling Bank launches open banking hackathon ](http://www.bankingtech.com/744702/starling-bank-launches-open-banking-hackathon/)
-- [ __Finextra__: Starling Bank developer portal goes live ](https://www.finextra.com/pressarticle/68797/starling-bank-developer-portal-goes-live)
-- [ __PYMNTS__: Moneybox and Starling Bank Partner On Digital Investment ](http://www.pymnts.com/news/partnerships-acquisitions/2017/moneybox-and-starling-bank-partner-on-digital-investment-mobile-app-uk/)
+- [__Forbes__](https://www.forbes.com/sites/lawrencewintermeyer/2017/04/07/open-banking-contagion-in-the-uk/#20734f748af5): Open Banking Contagion In The UK 
+- [ __Finextra__](https://www.finextra.com/newsarticle/30183/starling-releases-open-api-talks-up-marketplace-model): Starling releases Open API, talks up marketplace model 
+- [ __Banking Tech__](http://www.bankingtech.com/744702/starling-bank-launches-open-banking-hackathon/): Starling Bank launches open banking hackathon 
+- [ __Finextra__](https://www.finextra.com/pressarticle/68797/starling-bank-developer-portal-goes-live): Starling Bank developer portal goes live 
+- [ __PYMNTS__](http://www.pymnts.com/news/partnerships-acquisitions/2017/moneybox-and-starling-bank-partner-on-digital-investment-mobile-app-uk/): Moneybox and Starling Bank Partner On Digital Investment 
