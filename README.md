@@ -38,12 +38,12 @@
 - [ Savings Automator ](https://github.com/mattdean1/savings-automator): The 0100 Musketeers project from the Hackathon.
 - [ Chirp ](https://github.com/HarriBellThomas/Chirp): Facebook chatbot
 
-## Want to build your own?
+### Want to build your own?
 We strongly encourage developers to get stuck in with these and other community projects building integrations and applications that connect to the Starling API. 
 
 If you would like to create your own, the below repos are a good place to start, providing examples of the API being used in rudimentry web and mobile applications.
 
-### Official Examples
+#### Official Examples
 - [ Official Starling Javascript SDK](https://github.com/starlingbank/starling-developer-sdk)
 - [ Official Starling Web App ](https://github.com/starlingbank/starling-api-web-starter-kit/)
 - [ Official Starling Mobile App ](https://github.com/starlingbank/starling-api-mobile-starter-kit/)
