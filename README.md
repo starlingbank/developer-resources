@@ -23,7 +23,7 @@
 | ![](http://is2.mzstatic.com/image/thumb/Purple111/v4/e1/59/63/e15963fd-5e9f-dad5-a789-0156a9bb575f/source/100x100bb.jpg)      | [Tail](https://www.tail.at) |   Tail links exclusive cashback offers from retailers directly to your Starling card. |
 | ![](https://image.ibb.co/cp5mBQ/Artboard.png)      | [Mable](http://mablecare.co.uk) |  a comprehensive Care Management System for people under care and their caregivers to connect, get organized, reminisce and stay safe. |
 | ![](http://is3.mzstatic.com/image/thumb/Purple122/v4/9f/48/d8/9f48d8fc-2cb5-85f5-71db-5172991f4fb5/source/100x100bb.jpg)      | [Reloyalty](https://reloyalty.com) | Get Rewarded. Earn bitcoin when you visit your favourite places in town. |
-| ![](https://lh3.googleusercontent.com/q13KdM3jeRjmK1j_lvHyT_t2FE1S_8gLBTwryrYciM1Aq3JP-taEtd00o2YsBY7Uui4=w100)      | [Google Home](https://madeby.google.com/home/) | Check your balance and recent transactions through Google Assistant. |
+| ![](https://image.ibb.co/cSXgD5/google_assistant.png)      | [Google Assistant](https://assistant.google.com) | Check your balance and recent transactions through Google Assistant. |
 
     with more to be announced soon!
 
