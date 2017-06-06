@@ -25,26 +25,26 @@
 | ![](http://is3.mzstatic.com/image/thumb/Purple122/v4/9f/48/d8/9f48d8fc-2cb5-85f5-71db-5172991f4fb5/source/100x100bb.jpg)      | [Reloyalty](https://reloyalty.com) | Get Rewarded. Earn bitcoin when you visit your favourite places in town. |
 | ![](https://image.ibb.co/cSXgD5/google_assistant.png)      | [Google Assistant](https://assistant.google.com) | Check your balance and recent transactions through Google Assistant. |
 
-    with more to be announced soon!
+    ...with more to be announced soon!
 
 ## Open-Source Community Projects
-
+- [ Starling Terminal ](https://github.com/timrogers/starling-terminal): CLI for connecting to your Starling account
 - [ fintech-to-ynab ](https://github.com/scottrobertson/fintech-to-ynab): Direct transaction sync with [You Need A Budget](https://www.youneedabudget.com).
 - [ starling-export ](https://github.com/scottrobertson/starling-export): Script to export to CSV/QIF
-
 - [ Monux ](https://github.com/robjtede/monux): Native macOS application, currently Monzo only, looking to support Starling.
 - [ Savings Automator ](https://github.com/mattdean1/savings-automator): The 0100 Musketeers project from the Hackathon.
 - [ Chirp ](https://github.com/HarriBellThomas/Chirp): Facebook chatbot
 
-### Want to build your own?
-We strongly encourage developers to get stuck in with these and other community projects building integrations and applications that connect to the Starling API. 
+## SDKs and Code Libraries
+- [ Javascript (Official) ](https://github.com/starlingbank/starling-developer-sdk)
+- [ Ruby ](https://github.com/timrogers/starling-ruby)
 
-If you would like to create your own, the below repos are a good place to start, providing examples of the API being used in rudimentry web and mobile applications.
-
-#### Official Examples
-- [ Official Starling Javascript SDK](https://github.com/starlingbank/starling-developer-sdk)
+## Starter Kits
 - [ Official Starling Web App ](https://github.com/starlingbank/starling-api-web-starter-kit/)
 - [ Official Starling Mobile App ](https://github.com/starlingbank/starling-api-mobile-starter-kit/)
+
+### Want to build your own?
+We strongly encourage developers to get stuck in with these and other community projects building integrations and applications that connect to the Starling API. 
 
 ## Developer Community Activities 
 
