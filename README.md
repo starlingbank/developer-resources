@@ -36,7 +36,7 @@
 - [ Chirp ](https://github.com/HarriBellThomas/Chirp): Facebook chatbot
 
 ## SDKs and Code Libraries
-- [ Javascript (Official) ](https://github.com/starlingbank/starling-developer-sdk): Official SDK written in JavaScript
+- [ Javascript ](https://github.com/starlingbank/starling-developer-sdk): Official SDK written in JavaScript
 - [ Ruby ](https://github.com/timrogers/starling-ruby): A ruby library for using the Starling API – All credit to [Tim Rogers](https://github.com/timrogers)
 
 ## Starter Kits
