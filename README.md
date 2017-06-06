@@ -2,8 +2,10 @@
 > A list of useful links, integrations with our banking API and the community projects that have caught our eye.
 
 ## News & Updates
+#### 6th June 2017
+[:red_circle: Ruby Library Available](https://github.com/timrogers/starling-ruby) - Ruby dev? Thanks to [Tim Rogers](https://github.com/timrogers) it is now super simple to get started with the Starling API
 #### 12th May 2017
-[:tada: An update on our API :tada:](https://www.starlingbank.com/api-update/) - An overview on the current status of the API and and what's coming up next.
+[:tada: An update on our API](https://www.starlingbank.com/api-update/) - An overview on the current status of the API and and what's coming up next.
 ## Useful Links
 - [:pound: Starling Site ](https://starlingbank.com) – The main Starling customer site.
 - [:squirrel: Developer Platform ](https://developer.starlingbank.com) – A place to tinker with our API.
