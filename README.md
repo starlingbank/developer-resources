@@ -2,6 +2,8 @@
 > A list of useful links, integrations with our banking API and the community projects that have caught our eye.
 
 ## News & Updates
+#### 15th June 2017
+[:sparkles: Amazon Alexa Integration](https://github.com/timrogers/starling-ruby) - We are working on an integration so Alexa can keep you up-to-date with your finances! [(Preview – Starts around 7:00)](https://www.pscp.tv/w/1eaJbYVNeXrGX)
 #### 6th June 2017
 [:red_circle: Ruby Library Available](https://github.com/timrogers/starling-ruby) - Ruby dev? Thanks to [Tim Rogers](https://github.com/timrogers) it is now super simple to get started with the Starling API
 #### 12th May 2017
@@ -21,11 +23,13 @@
 | ------------- |:-------------:| :-----|
 | ![ ](http://is3.mzstatic.com/image/thumb/Purple122/v4/c5/01/44/c501442a-70e9-a0de-597b-757f5dfa4ae2/source/100x100bb.jpg)     | [ Moneybox ](https://moneyboxapp.com) | Round up your purchases to the nearest pound and invest the spare change. |
 | ![](http://is5.mzstatic.com/image/thumb/Purple111/v4/fb/64/d1/fb64d1e7-b9ec-7cfe-89bb-7d43a61329a1/source/100x100bb.jpg)      | [ Transferwise ](https://transferwise.com)    |   Transfer money abroad easily and quickly with our low cost money transfers |
-| ![](https://image.ibb.co/g6UDrQ/fynaptic.png)      | Fynaptic      |   An aggregator that combines bank account data and updates in real-time with automated expense approval and transaction analytics to identify areas where money can be saved. |
+| ![](https://image.ibb.co/cSXgD5/google_assistant.png)      | [Google Assistant](https://assistant.google.com) | Check your balance and recent transactions through Google Assistant. |
+| ![](http://is1.mzstatic.com/image/thumb/Purple127/v4/a7/3c/3f/a73c3f4b-8a6c-e67b-6b37-098689f6edb5/source/100x100bb.jpg)      | [Amazon Alexa](https://www.amazon.co.uk/Amazon-SK705DI-Echo-Black/dp/B01GAGVIE4) | Keep on top of your finances using Alexa. | 
 | ![](http://is2.mzstatic.com/image/thumb/Purple111/v4/e1/59/63/e15963fd-5e9f-dad5-a789-0156a9bb575f/source/100x100bb.jpg)      | [Tail](https://www.tail.at) |   Tail links exclusive cashback offers from retailers directly to your Starling card. |
+| ![](https://image.ibb.co/g6UDrQ/fynaptic.png)      | Fynaptic      |   An aggregator that combines bank account data and updates in real-time with automated expense approval and transaction analytics to identify areas where money can be saved. |
 | ![](https://image.ibb.co/cp5mBQ/Artboard.png)      | [Mable](http://mablecare.co.uk) |  a comprehensive Care Management System for people under care and their caregivers to connect, get organized, reminisce and stay safe. |
 | ![](http://is3.mzstatic.com/image/thumb/Purple122/v4/9f/48/d8/9f48d8fc-2cb5-85f5-71db-5172991f4fb5/source/100x100bb.jpg)      | [Reloyalty](https://reloyalty.com) | Get Rewarded. Earn bitcoin when you visit your favourite places in town. |
-| ![](https://image.ibb.co/cSXgD5/google_assistant.png)      | [Google Assistant](https://assistant.google.com) | Check your balance and recent transactions through Google Assistant. |
+
 
     ...with more to be announced soon!
 
