@@ -3,7 +3,7 @@
 
 ## News & Updates
 #### 15th June 2017
-[:sparkles: Amazon Alexa Integration](https://github.com/timrogers/starling-ruby) - We are working on an integration so Alexa can keep you up-to-date with your finances! [(Preview – Starts around 7:00)](https://www.pscp.tv/w/1eaJbYVNeXrGX)
+[:sparkles: Amazon Alexa Integration](https://github.com/timrogers/starling-ruby) - We are working on an integration so Alexa can keep you up-to-date with your finances! [(Preview)](https://www.pscp.tv/w/1eaJbYVNeXrGX) – Starts around 7:00
 #### 6th June 2017
 [:red_circle: Ruby Library Available](https://github.com/timrogers/starling-ruby) - Ruby dev? Thanks to [Tim Rogers](https://github.com/timrogers) it is now super simple to get started with the Starling API
 #### 12th May 2017
