@@ -19,12 +19,20 @@
 - [:warning: Service Status](http://starlingbank.statuspage.io/) – Is it just me?
 - [:rocket: Trello Roadmap](https://trello.com/b/wp8bOZPL/starling-developers-roadmap) - See what we're working on.
 
+## SDKs and Code Libraries
+- [ Javascript ](https://github.com/starlingbank/starling-developer-sdk): Official SDK written in JavaScript
+- [ Ruby ](https://github.com/timrogers/starling-ruby): A ruby library for using the Starling API – All credit to [Tim Rogers](https://github.com/timrogers)
+
+## Starter Kits
+- [ Official Starling Web App ](https://github.com/starlingbank/starling-api-web-starter-kit/)
+- [ Official Starling Mobile App ](https://github.com/starlingbank/starling-api-mobile-starter-kit/)
+
 ## Live Integrations
 
 |     |     Name     | Description |
 | ------------- |:-------------:| :-----|
-| ![ ](http://is3.mzstatic.com/image/thumb/Purple122/v4/c5/01/44/c501442a-70e9-a0de-597b-757f5dfa4ae2/source/100x100bb.jpg)     | [ Moneybox ](https://moneyboxapp.com) | Round up your purchases to the nearest pound and invest the spare change. |
-| ![](http://is2.mzstatic.com/image/thumb/Purple111/v4/e1/59/63/e15963fd-5e9f-dad5-a789-0156a9bb575f/source/100x100bb.jpg)      | [Tail](https://www.tail.at) |   Tail links exclusive cashback offers from retailers directly to your Starling card. |
+| ![ ](http://is3.mzstatic.com/image/thumb/Purple122/v4/c5/01/44/c501442a-70e9-a0de-597b-757f5dfa4ae2/source/60x60bb.jpg)     | [ Moneybox ](https://moneyboxapp.com) | Round up your purchases to the nearest pound and invest the spare change. |
+| ![](http://is2.mzstatic.com/image/thumb/Purple111/v4/e1/59/63/e15963fd-5e9f-dad5-a789-0156a9bb575f/source/60x60bb.jpg)      | [Tail](https://www.tail.at) |   Tail links exclusive cashback offers from retailers directly to your Starling card. |
 
 ## Upcoming Integrations
 
@@ -37,7 +45,6 @@
 | ![](https://image.ibb.co/cp5mBQ/Artboard.png)      | [Mable](http://mablecare.co.uk) |  a comprehensive Care Management System for people under care and their caregivers to connect, get organized, reminisce and stay safe. |
 | ![](http://is3.mzstatic.com/image/thumb/Purple122/v4/9f/48/d8/9f48d8fc-2cb5-85f5-71db-5172991f4fb5/source/100x100bb.jpg)      | [Reloyalty](https://reloyalty.com) | Get Rewarded. Earn bitcoin when you visit your favourite places in town. |
 
-
     ...with more to be announced soon!
 
 ## Open-Source Community Projects
@@ -49,14 +56,6 @@
 - [ Monux ](https://github.com/robjtede/monux): Native macOS application, currently Monzo only, looking to support Starling.
 - [ Savings Automator ](https://github.com/mattdean1/savings-automator): The 0100 Musketeers project from the Hackathon.
 - [ Chirp ](https://github.com/HarriBellThomas/Chirp): Facebook chatbot
-
-## SDKs and Code Libraries
-- [ Javascript ](https://github.com/starlingbank/starling-developer-sdk): Official SDK written in JavaScript
-- [ Ruby ](https://github.com/timrogers/starling-ruby): A ruby library for using the Starling API – All credit to [Tim Rogers](https://github.com/timrogers)
-
-## Starter Kits
-- [ Official Starling Web App ](https://github.com/starlingbank/starling-api-web-starter-kit/)
-- [ Official Starling Mobile App ](https://github.com/starlingbank/starling-api-mobile-starter-kit/)
 
 ### Want to build your own?
 We strongly encourage developers to get stuck in with these and other community projects building integrations and applications that connect to the Starling API. 
