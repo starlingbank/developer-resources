@@ -2,6 +2,8 @@
 > A list of useful links, integrations with our banking API and the community projects that have caught our eye.
 
 ## News & Updates
+#### 13th October 2017
+[Java Library Now Available](https://github.com/rzari/jarling) - Thanks to [Nav Roudsari](https://github.com/rzari) for his work. It is now much easier to get started with the Starling API in Java.
 #### 15th June 2017
 [:fire: Moneybox integration goes live](https://www.starlingbank.com/meet-moneybox-saving-investing/) - This allows Moneybox customers to connect their Starling account and bring in transactions to round up.
 #### 15th June 2017
@@ -21,7 +23,8 @@
 
 ## SDKs and Code Libraries
 - [ Javascript ](https://github.com/starlingbank/starling-developer-sdk): Official SDK written in JavaScript
-- [ Ruby ](https://github.com/timrogers/starling-ruby): A ruby library for using the Starling API – All credit to [Tim Rogers](https://github.com/timrogers)
+- [ Ruby ](https://github.com/timrogers/starling-ruby): A ruby library for using the Starling API – Credit to [Tim Rogers](https://github.com/timrogers)
+- [ Java ](https://github.com/rzari/jarling): A Java library for using the Starling API – Credit to [Nav Roudsari](https://github.com/rzari)
 
 ## Starter Kits
 - [ Official Starling Web App ](https://github.com/starlingbank/starling-api-web-starter-kit/)
