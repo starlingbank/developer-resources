@@ -18,7 +18,7 @@
 - [:books: API Docs](https://developer.starlingbank.com/docs) – Read up on the API and get comfortable with it.
 - [:speaker: Developer Slack ](https://developer.starlingbank.com/community) – Ask questions, post suggestions, whatever!
 - [:octocat: Starling's Github](https://github.com/starlingbank) – Our current open-source offerings to help you connect.
-- [:warning: Service Status](http://starlingbank.statuspage.io/) – Is it just me?
+- [:warning: Service Status](https://starlingbank.statuspage.io/) – Is it just me?
 - [:rocket: Trello Roadmap](https://trello.com/b/wp8bOZPL/starling-developers-roadmap) - See what we're working on.
 
 ## SDKs and Code Libraries
