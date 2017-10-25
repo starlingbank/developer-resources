@@ -12,11 +12,7 @@
 
 ## News & Updates
 #### 13th October 2017
-[Java Library Now Available](https://github.com/rzari/jarling) - Thanks to [Nav Roudsari](https://github.com/rzari) for his work. It is now much easier to get started with the Starling API in Java.
-#### 15th June 2017
-[:fire: Moneybox integration goes live](https://www.starlingbank.com/meet-moneybox-saving-investing/) - This allows Moneybox customers to connect their Starling account and bring in transactions to round up.
-#### 15th June 2017
-[:sparkles: Amazon Alexa Integration](https://www.pscp.tv/w/1eaJbYVNeXrGX) - We are working on an integration so Alexa can keep you up-to-date with your finances! [(Preview)](https://www.pscp.tv/w/1eaJbYVNeXrGX) – Starts around 7:00
+[:coffee: Java Library Now Available](https://github.com/rzari/jarling) - Thanks to [Nav Roudsari](https://github.com/rzari) for his work. It is now much easier to get started with the Starling API in Java.
 #### 6th June 2017
 [:red_circle: Ruby Library Available](https://github.com/timrogers/starling-ruby) - Ruby dev? Thanks to [Tim Rogers](https://github.com/timrogers) it is now super simple to get started with the Starling API
 #### 12th May 2017
