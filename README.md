@@ -32,11 +32,12 @@
 - [ Official Starling Mobile App ](https://github.com/starlingbank/starling-api-mobile-starter-kit/)
 
 ## Live Integrations
-
 |     |     Name     | Description |
 | ------------- |:-------------:| :-----|
 | ![ ](http://is3.mzstatic.com/image/thumb/Purple122/v4/c5/01/44/c501442a-70e9-a0de-597b-757f5dfa4ae2/source/60x60bb.jpg)     | [ Moneybox ](https://moneyboxapp.com) | Round up your purchases to the nearest pound and invest the spare change. |
 | ![](http://is2.mzstatic.com/image/thumb/Purple111/v4/e1/59/63/e15963fd-5e9f-dad5-a789-0156a9bb575f/source/60x60bb.jpg)      | [Tail](https://www.tail.at) | Tail links exclusive cashback offers from retailers directly to your Starling card. |
+| ![](https://pbs.twimg.com/profile_images/905841456648159232/4Y2jjaS7_bigger.jpg)      | [ Flux ](https://tryflux.com)    |   Flux's integration allows users to view detailed receipts for their transactions and will give them access to exclusive loyalty schemes |
+
 
 ## Open-Source Community Projects
 - [ starling-bar ](https://github.com/sprusr/starling-bar): Menu bar item for displaying balance (JavaScript)
