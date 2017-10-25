@@ -1,6 +1,15 @@
 # Starling Developer Resources
 > A list of useful links, integrations with our banking API and the community projects that have caught our eye.
 
+## Useful Links
+- [:pound: Starling Site ](https://starlingbank.com) – The main Starling customer site.
+- [:squirrel: Developer Platform ](https://developer.starlingbank.com) – A place to tinker with our API.
+- [:books: API Docs](https://developer.starlingbank.com/docs) – Read up on the API and get comfortable with it.
+- [:speaker: Developer Slack ](https://developer.starlingbank.com/community) – Ask questions, post suggestions, whatever!
+- [:octocat: Starling's Github](https://github.com/starlingbank) – Our current open-source offerings to help you connect.
+- [:warning: Service Status](https://starlingbank.statuspage.io/) – Is it just me?
+- [:rocket: Trello Roadmap](https://trello.com/b/wp8bOZPL/starling-developers-roadmap) - See what we're working on.
+
 ## News & Updates
 #### 13th October 2017
 [Java Library Now Available](https://github.com/rzari/jarling) - Thanks to [Nav Roudsari](https://github.com/rzari) for his work. It is now much easier to get started with the Starling API in Java.
@@ -12,14 +21,6 @@
 [:red_circle: Ruby Library Available](https://github.com/timrogers/starling-ruby) - Ruby dev? Thanks to [Tim Rogers](https://github.com/timrogers) it is now super simple to get started with the Starling API
 #### 12th May 2017
 [:tada: An update on our API](https://www.starlingbank.com/api-update/) - An overview on the current status of the API and and what's coming up next.
-## Useful Links
-- [:pound: Starling Site ](https://starlingbank.com) – The main Starling customer site.
-- [:squirrel: Developer Platform ](https://developer.starlingbank.com) – A place to tinker with our API.
-- [:books: API Docs](https://developer.starlingbank.com/docs) – Read up on the API and get comfortable with it.
-- [:speaker: Developer Slack ](https://developer.starlingbank.com/community) – Ask questions, post suggestions, whatever!
-- [:octocat: Starling's Github](https://github.com/starlingbank) – Our current open-source offerings to help you connect.
-- [:warning: Service Status](https://starlingbank.statuspage.io/) – Is it just me?
-- [:rocket: Trello Roadmap](https://trello.com/b/wp8bOZPL/starling-developers-roadmap) - See what we're working on.
 
 ## SDKs and Code Libraries
 - [ Javascript ](https://github.com/starlingbank/starling-developer-sdk): Official SDK written in JavaScript
@@ -35,20 +36,7 @@
 |     |     Name     | Description |
 | ------------- |:-------------:| :-----|
 | ![ ](http://is3.mzstatic.com/image/thumb/Purple122/v4/c5/01/44/c501442a-70e9-a0de-597b-757f5dfa4ae2/source/60x60bb.jpg)     | [ Moneybox ](https://moneyboxapp.com) | Round up your purchases to the nearest pound and invest the spare change. |
-| ![](http://is2.mzstatic.com/image/thumb/Purple111/v4/e1/59/63/e15963fd-5e9f-dad5-a789-0156a9bb575f/source/60x60bb.jpg)      | [Tail](https://www.tail.at) |   Tail links exclusive cashback offers from retailers directly to your Starling card. |
-
-## Upcoming Integrations
-
-|     |     Name     | Description |
-| ------------- |:-------------:| :-----|
-| ![](http://is5.mzstatic.com/image/thumb/Purple111/v4/fb/64/d1/fb64d1e7-b9ec-7cfe-89bb-7d43a61329a1/source/100x100bb.jpg)      | [ Transferwise ](https://transferwise.com)    |   Transfer money abroad easily and quickly with our low cost money transfers |
-| ![](https://image.ibb.co/cSXgD5/google_assistant.png)      | [Google Assistant](https://assistant.google.com) | Check your balance and recent transactions through Google Assistant. |
-| ![](http://is1.mzstatic.com/image/thumb/Purple127/v4/a7/3c/3f/a73c3f4b-8a6c-e67b-6b37-098689f6edb5/source/100x100bb.jpg)      | [Amazon Alexa](https://www.amazon.co.uk/Amazon-SK705DI-Echo-Black/dp/B01GAGVIE4) | Keep on top of your finances using Alexa. | 
-| ![](https://image.ibb.co/g6UDrQ/fynaptic.png)      | Fynaptic      |   An aggregator that combines bank account data and updates in real-time with automated expense approval and transaction analytics to identify areas where money can be saved. |
-| ![](https://image.ibb.co/cp5mBQ/Artboard.png)      | [Mable](http://mablecare.co.uk) |  a comprehensive Care Management System for people under care and their caregivers to connect, get organized, reminisce and stay safe. |
-| ![](http://is3.mzstatic.com/image/thumb/Purple122/v4/9f/48/d8/9f48d8fc-2cb5-85f5-71db-5172991f4fb5/source/100x100bb.jpg)      | [Reloyalty](https://reloyalty.com) | Get Rewarded. Earn bitcoin when you visit your favourite places in town. |
-
-    ...with more to be announced soon!
+| ![](http://is2.mzstatic.com/image/thumb/Purple111/v4/e1/59/63/e15963fd-5e9f-dad5-a789-0156a9bb575f/source/60x60bb.jpg)      | [Tail](https://www.tail.at) | Tail links exclusive cashback offers from retailers directly to your Starling card. |
 
 ## Open-Source Community Projects
 - [ starling-bar ](https://github.com/sprusr/starling-bar): Menu bar item for displaying balance (JavaScript)
