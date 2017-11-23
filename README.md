@@ -11,8 +11,10 @@
 - [:rocket: Trello Roadmap](https://trello.com/b/wp8bOZPL/starling-developers-roadmap) - See what we're working on.
 
 ## News & Updates
+#### 23rd November 2017
+[:globe_with_meridians: PHP Library Available](https://github.com/MoneyMeg/starling-php-sdk) - Credit to [Alan Cole](https://github.com/MoneyMeg).
 #### 13th October 2017
-[:coffee: Java Library Now Available](https://github.com/rzari/jarling) - Thanks to [Nav Roudsari](https://github.com/rzari) for his work. It is now much easier to get started with the Starling API in Java.
+[:coffee: Java Library Available](https://github.com/rzari/jarling) - Thanks to [Nav Roudsari](https://github.com/rzari) for his work. It is now much easier to get started with the Starling API in Java.
 #### 6th June 2017
 [:red_circle: Ruby Library Available](https://github.com/timrogers/starling-ruby) - Ruby dev? Thanks to [Tim Rogers](https://github.com/timrogers) it is now super simple to get started with the Starling API
 #### 12th May 2017
@@ -22,6 +24,7 @@
 - [ Javascript ](https://github.com/starlingbank/starling-developer-sdk): Official SDK written in JavaScript
 - [ Ruby ](https://github.com/timrogers/starling-ruby): A ruby library for using the Starling API – Credit to [Tim Rogers](https://github.com/timrogers)
 - [ Java ](https://github.com/rzari/jarling): A Java library for using the Starling API – Credit to [Nav Roudsari](https://github.com/rzari)
+- [ PHP ](https://github.com/MoneyMeg/starling-php-sdk): A PHP library for using the Starling API – Credit to [Alan Cole](https://github.com/MoneyMeg)
 
 ## Starter Kits
 - [ Official Starling Web App ](https://github.com/starlingbank/starling-api-web-starter-kit/)
