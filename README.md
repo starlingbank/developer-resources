@@ -38,6 +38,7 @@
 | ![](https://pbs.twimg.com/profile_images/905841456648159232/4Y2jjaS7_bigger.jpg)      | [ Flux ](https://tryflux.com)    |   Flux's integration allows users to view detailed receipts for their transactions and will give them access to exclusive loyalty schemes |
 | ![](https://pbs.twimg.com/profile_images/875387223255994370/YLQA6AG6_bigger.jpg)      | [ Yolt ](https://www.yolt.com/)    |   Aggregate all of your bank accounts to get a clear view of your finances |
 | ![](https://pbs.twimg.com/profile_images/889492270285762564/2wrPGwec_bigger.jpg)      | [ Yoyo Wallet ](https://www.yoyowallet.com/)    |   Upgrade your wallet - loyalty and rewards at major retailers |
+| ![](https://pbs.twimg.com/profile_images/897076162048004096/WoE8I24v_bigger.jpg)      | [ PensionBee ](https://www.pensionbee.com/)    |   Combine all your old pensions into one new online plan |
 
 
 ## Open-Source Community Projects
