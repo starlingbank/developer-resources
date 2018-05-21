@@ -39,6 +39,13 @@
 | ![](https://pbs.twimg.com/profile_images/875387223255994370/YLQA6AG6_bigger.jpg)      | [ Yolt ](https://www.yolt.com/)    |   Aggregate all of your bank accounts to get a clear view of your finances |
 | ![](https://pbs.twimg.com/profile_images/889492270285762564/2wrPGwec_bigger.jpg)      | [ Yoyo Wallet ](https://www.yoyowallet.com/)    |   Upgrade your wallet - loyalty and rewards at major retailers |
 | ![](https://pbs.twimg.com/profile_images/897076162048004096/WoE8I24v_bigger.jpg)      | [ PensionBee ](https://www.pensionbee.com/)    |   Combine all your old pensions into one new online plan |
+| ![](https://pbs.twimg.com/profile_images/916241400437641217/6v_BDema_bigger.jpg)      | [ Emma ](https://emma-app.com/)    |   Emma helps you avoid overdrafts, find and cancel subscriptions, track debt and save money |
+| ![](https://pbs.twimg.com/profile_images/605845018520068096/tHHo0zIN_bigger.png)      | [ Kasko ](https://kasko.io/)    |   Travel insurance by KASKO, in partnership with AXA Travel Insurance |
+| ![](https://pbs.twimg.com/profile_images/995184141317554176/VORrI22r_bigger.jpg)      | [ Truelayer ](https://truelayer.com/)    |   Helps developers build applications that securely access data and initiate payments in real time |
+| ![](https://pbs.twimg.com/profile_images/679605889083506688/6iELIgbU_bigger.jpg)      | [ Wealthify ](https://wealthify.com/)    |   Wealthify is a smart and affordable way for everyone to invest. |
+| ![](https://pbs.twimg.com/profile_images/904444894147735553/sML7fRe8_bigger.jpg)      | [ Habito ](https://habito.com/)    |   Habito are a free online mortgage broker, accessible through the Starling Marketplace |
+| ![](https://pbs.twimg.com/profile_images/661564824124596225/fDwkUm3N_bigger.jpg)      | [ Wealthsimple ](https://wealthsimple.com/)    |   Professional investing made simple and affordable by combining smart technology with expert human advice |
+| ![](https://pbs.twimg.com/profile_images/895567613308411904/--pRcpCL_bigger.jpg)      | [ Moneyhub ](https://moneyhub.com/)    |   See all your money in one place and use powerful, market-leading tools to achieve your goals |
 
 
 ## Open-Source Community Projects
