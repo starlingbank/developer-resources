@@ -46,7 +46,7 @@
 - [ starling-export ](https://github.com/scottrobertson/starling-export): Script to export to CSV/QIF
 - [ Savings Automator ](https://github.com/mattdean1/savings-automator): The 0100 Musketeers project from the Hackathon.
 - [ Chirp ](https://github.com/HarriBellThomas/Chirp): Facebook chatbot
-- [ StarlingBankSpendingGraph ](https://github.com/mafonso/starling2freeagent): Generates graphs based on Starling transaction data
+- [ StarlingBankSpendingGraph ](https://github.com/bsydenham/StarlingBankSpendingGraph): Generates graphs based on Starling transaction data
 - [ Starling Webhook Example ](https://github.com/piniyini/starlingbankwebhook): A NodeJS webhook receiver example
 - [ BlueSheet ](https://github.com/Dullage/BlueSheet): A web app to help manager personal finances
 - [ starling2freeagnet ](https://github.com/mafonso/starling2freeagent): Converts Starling Bank CSV statements for import to FreeAgent
