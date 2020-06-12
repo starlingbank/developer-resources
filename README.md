@@ -2,49 +2,40 @@
 > A list of useful links, integrations with our banking API and the community projects that have caught our eye.
 
 ## Useful Links
-- [:pound: Starling Site ](https://starlingbank.com) – The main Starling customer site.
-- [:squirrel: Developer Platform ](https://developer.starlingbank.com) – A place to tinker with our API.
-- [:books: API Docs](https://developer.starlingbank.com/docs) – Read up on the API and get comfortable with it.
-- [:speaker: Developer Slack ](https://developer.starlingbank.com/community) – Ask questions, post suggestions, whatever!
+- [💷 Starling Site](https://starlingbank.com) – The main Starling customer site.
+- [👩‍💻 Developer Portal](https://developer.starlingbank.com) – A place to tinker with our API.
+- [📚 API Docs](https://developer.starlingbank.com/docs) – Read up on the API and get comfortable with it.
+- [💬 Developer Slack ](https://developer.starlingbank.com/community) – Ask questions, post suggestions, whatever!
 - [:octocat: Starling's Github](https://github.com/starlingbank) – Our current open-source offerings to help you connect.
-- [:warning: Service Status](https://starlingbank.statuspage.io/) – Is it just me?
-
-## News & Updates
-#### 23rd November 2017
-[:globe_with_meridians: PHP Library Available](https://github.com/MoneyMeg/starling-php-sdk) - Credit to [Alan Cole](https://github.com/MoneyMeg).
-#### 13th October 2017
-[:coffee: Java Library Available](https://github.com/rzari/jarling) - Thanks to [Nav Roudsari](https://github.com/rzari) for his work. It is now much easier to get started with the Starling API in Java.
-#### 6th June 2017
-[:red_circle: Ruby Library Available](https://github.com/timrogers/starling-ruby) - Ruby dev? Thanks to [Tim Rogers](https://github.com/timrogers) it is now super simple to get started with the Starling API
-#### 12th May 2017
-[:tada: An update on our API](https://www.starlingbank.com/api-update/) - An overview on the current status of the API and and what's coming up next.
+- [📊 Service Status](https://starlingbank.statuspage.io/) – Is it just me?
 
 ## SDKs and Code Libraries
-- [ Javascript ](https://github.com/starlingbank/starling-developer-sdk): Official SDK written in JavaScript
-- [ Ruby ](https://github.com/timrogers/starling-ruby): A ruby library for using the Starling API – Credit to [Tim Rogers](https://github.com/timrogers)
-- [ Java ](https://github.com/rzari/jarling): A Java library for using the Starling API – Credit to [Nav Roudsari](https://github.com/rzari)
-- [ PHP ](https://github.com/MoneyMeg/starling-php-sdk): A PHP library for using the Starling API – Credit to [Alan Cole](https://github.com/MoneyMeg)
+
+- [Official Javascript SDK](https://github.com/starlingbank/starling-developer-sdk): Official SDK written in JavaScript
+- [Java](https://github.com/deepinspire/Simple-SDK-for-Starling-API-v2/): An unofficial Java library for using the Starling API – Credit to [deepinspire](https://github.com/deepinspire)
 
 ## Starter Kits
-- [ Official Starling Web App ](https://github.com/starlingbank/starling-api-web-starter-kit/)
-- [ Official Starling Mobile App ](https://github.com/starlingbank/starling-api-mobile-starter-kit/)
+
+- [Official Starling Web App Starter Kit](https://github.com/starlingbank/starling-api-web-starter-kit/)
 
 ## Live Integrations
+
 |     |     Name     | Description |
 | ------------- |:-------------:| :-----|
-| ![ ](http://is3.mzstatic.com/image/thumb/Purple122/v4/c5/01/44/c501442a-70e9-a0de-597b-757f5dfa4ae2/source/60x60bb.jpg)     | [ Moneybox ](https://moneyboxapp.com) | Round up your purchases to the nearest pound and invest the spare change. |
-| ![](http://is2.mzstatic.com/image/thumb/Purple111/v4/e1/59/63/e15963fd-5e9f-dad5-a789-0156a9bb575f/source/60x60bb.jpg)      | [Tail](https://www.tail.at) | Tail links exclusive cashback offers from retailers directly to your Starling card. |
-| ![](https://pbs.twimg.com/profile_images/905841456648159232/4Y2jjaS7_bigger.jpg)      | [ Flux ](https://tryflux.com)    |   Flux's integration allows users to view detailed receipts for their transactions and will give them access to exclusive loyalty schemes |
-| ![](https://pbs.twimg.com/profile_images/875387223255994370/YLQA6AG6_bigger.jpg)      | [ Yolt ](https://www.yolt.com/)    |   Aggregate all of your bank accounts to get a clear view of your finances |
-| ![](https://pbs.twimg.com/profile_images/889492270285762564/2wrPGwec_bigger.jpg)      | [ Yoyo Wallet ](https://www.yoyowallet.com/)    |   Upgrade your wallet - loyalty and rewards at major retailers |
-| ![](https://pbs.twimg.com/profile_images/897076162048004096/WoE8I24v_bigger.jpg)      | [ PensionBee ](https://www.pensionbee.com/)    |   Combine all your old pensions into one new online plan |
-| ![](https://pbs.twimg.com/profile_images/916241400437641217/6v_BDema_bigger.jpg)      | [ Emma ](https://emma-app.com/)    |   Emma helps you avoid overdrafts, find and cancel subscriptions, track debt and save money |
-| ![](https://pbs.twimg.com/profile_images/995184141317554176/VORrI22r_bigger.jpg)      | [ Truelayer ](https://truelayer.com/)    |   Helps developers build applications that securely access data and initiate payments in real time |
-| ![](https://pbs.twimg.com/profile_images/679605889083506688/6iELIgbU_bigger.jpg)      | [ Wealthify ](https://wealthify.com/)    |   Wealthify is a smart and affordable way for everyone to invest. |
-| ![](https://pbs.twimg.com/profile_images/904444894147735553/sML7fRe8_bigger.jpg)      | [ Habito ](https://habito.com/)    |   Habito are a free online mortgage broker, accessible through the Starling Marketplace |
-| ![](https://pbs.twimg.com/profile_images/661564824124596225/fDwkUm3N_bigger.jpg)      | [ Wealthsimple ](https://wealthsimple.com/)    |   Professional investing made simple and affordable by combining smart technology with expert human advice |
-| ![](https://pbs.twimg.com/profile_images/895567613308411904/--pRcpCL_bigger.jpg)      | [ Moneyhub ](https://moneyhub.com/)    |   See all your money in one place and use powerful, market-leading tools to achieve your goals |
-| ![](https://pbs.twimg.com/profile_images/860475868191363072/mikgc0W6_bigger.jpg)      | [ Creditladder ](https://creditladder.co.uk/)    |   Make your rent payments count towards building your credit history |
+| <img src="https://pbs.twimg.com/profile_images/1268564083839729664/qzgTxTWv_400x400.png" width="75" /> | [ Moneybox ](https://moneyboxapp.com) | Round up your purchases to the nearest pound and invest the spare change. |
+| <img src="https://pbs.twimg.com/profile_images/1136285993558872069/OKHT7iWe_400x400.png" width="75" />      | [Tail](https://www.tail.at) | Tail links exclusive cashback offers from retailers directly to your Starling card. |
+| <img src="https://pbs.twimg.com/profile_images/1221737938641395712/fiu6Uh-m_400x400.jpg" width="75" />      | [ Flux ](https://tryflux.com)    |   Flux's integration allows users to view detailed receipts for their transactions and will give them access to exclusive loyalty schemes |
+| <img src="https://pbs.twimg.com/profile_images/875387223255994370/YLQA6AG6_400x400.jpg" width="75" />      | [ Yolt ](https://www.yolt.com/)    |   Aggregate all of your bank accounts to get a clear view of your finances |
+| <img src="https://pbs.twimg.com/profile_images/1234802271365496839/QG91iHhJ_400x400.jpg" width="75" />      | [ Yoyo Wallet ](https://www.yoyowallet.com/)    |   Upgrade your wallet - loyalty and rewards at major retailers |
+| <img src="https://pbs.twimg.com/profile_images/1215626970601525248/M0ztbrP0_400x400.jpg" width="75" />      | [ PensionBee ](https://www.pensionbee.com/)    |   Combine all your old pensions into one new online plan |
+| <img src="https://pbs.twimg.com/profile_images/1148552661765173248/GZc5bV_c_400x400.png" width="75" />      | [ Emma ](https://emma-app.com/)    |   Emma helps you avoid overdrafts, find and cancel subscriptions, track debt and save money |
+| <img src="https://pbs.twimg.com/profile_images/1224745359873847301/FdAPHuDN_400x400.jpg" width="75" />      | [ Truelayer ](https://truelayer.com/)    |   Helps developers build applications that securely access data and initiate payments in real time |
+| <img src="https://pbs.twimg.com/profile_images/1268862069123809289/7QB3DjvZ_400x400.jpg" width="75" />      | [ Wealthify ](https://wealthify.com/)    |   Wealthify is a smart and affordable way for everyone to invest. |
+| <img src="https://pbs.twimg.com/profile_images/1039067379546947584/gb2pALXx_400x400.jpg" width="75" />      | [ Habito ](https://habito.com/)    |   Habito are a free online mortgage broker, accessible through the Starling Marketplace |
+| <img src="https://pbs.twimg.com/profile_images/661564824124596225/fDwkUm3N_400x400.jpg" width="75" />      | [ Wealthsimple ](https://wealthsimple.com/)    |   Professional investing made simple and affordable by combining smart technology with expert human advice |
+| <img src="https://pbs.twimg.com/profile_images/807265969827708928/s_61Z-r9_400x400.jpg" width="75" />      | [ Moneyhub ](https://moneyhub.com/)    |   See all your money in one place and use powerful, market-leading tools to achieve your goals |
+| <img src="https://pbs.twimg.com/profile_images/860475868191363072/mikgc0W6_400x400.jpg" width="75" />      | [ Creditladder ](https://creditladder.co.uk/)    |   Make your rent payments count towards building your credit history |
+| <img src="https://pbs.twimg.com/profile_images/444567424776421376/rTP_TgQG_400x400.jpeg" width="75" />      | [ Money Dashboard ](https://www.moneydashboard.com/)    |   UK personal finance app that helps customers stay on top of their money.  |
 
 
 ## Open-Source Community Projects
@@ -53,12 +44,14 @@
 - [ Starling Terminal ](https://github.com/timrogers/starling-terminal): CLI for connecting to your Starling account
 - [ fintech-to-ynab ](https://github.com/scottrobertson/fintech-to-ynab): Direct transaction sync with [You Need A Budget](https://www.youneedabudget.com).
 - [ starling-export ](https://github.com/scottrobertson/starling-export): Script to export to CSV/QIF
-- [ Monux ](https://github.com/robjtede/monux): Native macOS application, currently Monzo only, looking to support Starling.
 - [ Savings Automator ](https://github.com/mattdean1/savings-automator): The 0100 Musketeers project from the Hackathon.
 - [ Chirp ](https://github.com/HarriBellThomas/Chirp): Facebook chatbot
+- [ StarlingBankSpendingGraph ](https://github.com/bsydenham/StarlingBankSpendingGraph): Generates graphs based on Starling transaction data
+- [ Starling Webhook Example ](https://github.com/piniyini/starlingbankwebhook): A NodeJS webhook receiver example
+- [ BlueSheet ](https://github.com/Dullage/BlueSheet): A web app to help manager personal finances
+- [ starling2freeagnet ](https://github.com/mafonso/starling2freeagent): Converts Starling Bank CSV statements for import to FreeAgent
 
-### Want to build your own?
-We strongly encourage developers to get stuck in with these and other community projects building integrations and applications that connect to the Starling API. 
+Got something awesome to add to this list? We'd love to hear about your project on our [Developer Slack](https://developer.starlingbank.com/community)!
 
 ## Developer Community Activities 
 
@@ -71,6 +64,7 @@ We strongly encourage developers to get stuck in with these and other community 
 ### Blog Posts
 - [ Next year you’ll be banking with a startup ](https://blog.decoded.com/next-year-youll-be-banking-with-a-startup-8b5fb7e9251d)
 - [ Women can hack(athon) too ](https://medium.com/@michellebrien/women-can-hack-athon-too-1761aac6ed2)
+- [ Our engineering blog ](https://www.starlingbank.com/blog/category/engineering/)
 
 ### Videos
 - [ Starling Hackathon @Campus London ](https://www.youtube.com/watch?v=bzd5EKDrXSc) 
