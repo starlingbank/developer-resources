@@ -36,6 +36,7 @@
 | <img src="https://pbs.twimg.com/profile_images/807265969827708928/s_61Z-r9_400x400.jpg" width="75" />      | [ Moneyhub ](https://moneyhub.com/)    |   See all your money in one place and use powerful, market-leading tools to achieve your goals |
 | <img src="https://pbs.twimg.com/profile_images/860475868191363072/mikgc0W6_400x400.jpg" width="75" />      | [ Creditladder ](https://creditladder.co.uk/)    |   Make your rent payments count towards building your credit history |
 | <img src="https://pbs.twimg.com/profile_images/444567424776421376/rTP_TgQG_400x400.jpeg" width="75" />      | [ Money Dashboard ](https://www.moneydashboard.com/)    |   UK personal finance app that helps customers stay on top of their money.  |
+| <img src="https://pbs.twimg.com/profile_images/1062287406102179840/CauA4PyX_400x400.jpg" width="75" />      | [ Banked ](https://www.banked.com/)    |   Powering real-time payments for business, banks, and individuals.  |
 
 
 ## Open-Source Community Projects
