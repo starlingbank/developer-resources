@@ -1,0 +1,24 @@
+version: 2  
+mergeable:
+  - when: pull_request.*, pull_request_review.*
+    validate:
+      - do: description
+        no_empty:
+          enabled: true
+          message: 'This PR needs a description'
+        must_include:
+          regex: '^.{10}'
+          regex_flag: 's'
+          message: 'This PR needs a descriptive description'
+      - do: label
+        must_exclude:
+          regex: 'DO NOT MERGE'
+          message: 'This PR has a "DO NOT MERGE" label, it cannot be merged'
+      - do: label
+        must_exclude: 
+          regex: 'REBASE'
+          message: 'This PR has a "REBASE" label, it needs to be rebased before merging'
+      - do: label
+        must_exclude:
+          regex: 'WIP'
+          message: 'This PR has a "WIP" label, it needs to be finished before merging'
