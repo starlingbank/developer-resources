@@ -14,6 +14,7 @@
 - [Official Javascript SDK](https://github.com/starlingbank/starling-developer-sdk): Official SDK written in JavaScript
 - [Java](https://github.com/deepinspire/Simple-SDK-for-Starling-API-v2/): An unofficial Java library for using the Starling API – Credit to [deepinspire](https://github.com/deepinspire)
 - [.NET Standard](https://github.com/Netizine/StarlingBankClient): An unofficial .Net library for using the Starling API – Credit to [Netizine](https://github.com/Netizine)
+- [Rust](https://github.com/shymega/starling-rs): An unofficial Rust SDK for using the Starling API - Credit to [shymega](https://github.com/shymega)
 
 ## Starter Kits
 
