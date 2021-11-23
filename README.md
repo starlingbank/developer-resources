@@ -69,9 +69,6 @@ Got something awesome to add to this list? We'd love to hear about your project 
 - [ Women can hack(athon) too ](https://medium.com/@michellebrien/women-can-hack-athon-too-1761aac6ed2)
 - [ Our engineering blog ](https://www.starlingbank.com/blog/category/engineering/)
 
-### Videos
-- [ Starling Hackathon @Campus London ](https://www.youtube.com/watch?v=bzd5EKDrXSc) 
-
 ## In the Press
 - [__Forbes__](https://www.forbes.com/sites/lawrencewintermeyer/2017/04/07/open-banking-contagion-in-the-uk/#20734f748af5): Open Banking Contagion In The UK 
 - [ __Finextra__](https://www.finextra.com/newsarticle/30183/starling-releases-open-api-talks-up-marketplace-model): Starling releases Open API, talks up marketplace model 
