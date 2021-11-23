@@ -52,7 +52,7 @@
 - [ StarlingBankSpendingGraph ](https://github.com/bsydenham/StarlingBankSpendingGraph): Generates graphs based on Starling transaction data
 - [ Starling Webhook Example ](https://github.com/piniyini/starlingbankwebhook): A NodeJS webhook receiver example
 - [ BlueSheet ](https://github.com/Dullage/BlueSheet): A web app to help manager personal finances
-- [ starling2freeagnet ](https://github.com/mafonso/starling2freeagent): Converts Starling Bank CSV statements for import to FreeAgent
+- [ starling2freeagent ](https://github.com/mafonso/starling2freeagent): Converts Starling Bank CSV statements for import to FreeAgent
 
 Got something awesome to add to this list? We'd love to hear about your project on our [Developer Slack](https://developer.starlingbank.com/community)!
 
