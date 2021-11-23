@@ -58,12 +58,6 @@ Got something awesome to add to this list? We'd love to hear about your project 
 
 ## Developer Community Activities 
 
-### Our First Hackathon
-
-- [ First Starling Hackathon ](https://www.starlingbank.com/hackathon/): We held our first Hackathon in April 2017 to celebrate the launch of our API and developer platform 🎉
-- [ Starling Hackathon: the roundup](https://www.starlingbank.com/starling-hackathon-the-roundup/): An overview of the results of the first hackathon, showcasing some of the awesome teams and what they built over the weekend.
-- [ Starling Hackathon: the winners interview ](https://www.starlingbank.com/starling-hackathon-the-winners/): An interview with the winners of the first Starling hackathon. 
-
 ### Blog Posts
 - [ Next year you’ll be banking with a startup ](https://blog.decoded.com/next-year-youll-be-banking-with-a-startup-8b5fb7e9251d)
 - [ Women can hack(athon) too ](https://medium.com/@michellebrien/women-can-hack-athon-too-1761aac6ed2)
