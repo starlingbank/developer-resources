@@ -66,8 +66,8 @@ Got something awesome to add to this list? We'd love to hear about your project 
 ## In the Press
 - [__Forbes__](https://www.forbes.com/sites/lawrencewintermeyer/2017/04/07/open-banking-contagion-in-the-uk/#20734f748af5): Open Banking Contagion In The UK 
 - [ __Finextra__](https://www.finextra.com/newsarticle/30183/starling-releases-open-api-talks-up-marketplace-model): Starling releases Open API, talks up marketplace model 
-- [ __Banking Tech__](http://www.bankingtech.com/744702/starling-bank-launches-open-banking-hackathon/): Starling Bank launches open banking hackathon 
+- [ __FinTech Futures__](https://www.fintechfutures.com/2017/02/starling-bank-launches-open-banking-hackathon/): Starling Bank launches open banking hackathon 
 - [ __Finextra__](https://www.finextra.com/pressarticle/68797/starling-bank-developer-portal-goes-live): Starling Bank developer portal goes live 
-- [ __PYMNTS__](http://www.pymnts.com/news/partnerships-acquisitions/2017/moneybox-and-starling-bank-partner-on-digital-investment-mobile-app-uk/): Moneybox and Starling Bank Partner On Digital Investment 
+- [ __PYMNTS__](https://www.pymnts.com/news/partnerships-acquisitions/2017/moneybox-and-starling-bank-partner-on-digital-investment-mobile-app-uk/): Moneybox and Starling Bank Partner On Digital Investment 
 - [ __Figo__](https://www.figo.io/en/blog/fintech-hackathons-psd2s-best-friend/): FinTech Hackathons – PSD2’s best friend? (ep. 4 of figo talks PSD2) 
 
