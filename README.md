@@ -8,6 +8,7 @@
 - [💬 Developer Slack ](https://developer.starlingbank.com/community) – Ask questions, post suggestions, whatever!
 - [:octocat: Starling's Github](https://github.com/starlingbank) – Our current open-source offerings to help you connect.
 - [📊 Service Status](https://starlingbank.statuspage.io/) – Is it just me?
+- [Starling Podcast](https://podcasts.apple.com/gb/podcast/starling-developer-podcast/id1274198025) - Hear from our team how we build a bank.
 
 ## SDKs and Code Libraries
 
