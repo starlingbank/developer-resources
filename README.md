@@ -20,27 +20,6 @@
 
 - [Official Starling Web App Starter Kit](https://github.com/starlingbank/starling-api-web-starter-kit/)
 
-## Live Integrations
-
-|     |     Name     | Description |
-| ------------- |:-------------:| :-----|
-| <img src="https://pbs.twimg.com/profile_images/1268564083839729664/qzgTxTWv_400x400.png" width="75" /> | [ Moneybox ](https://moneyboxapp.com) | Round up your purchases to the nearest pound and invest the spare change. |
-| <img src="https://pbs.twimg.com/profile_images/1136285993558872069/OKHT7iWe_400x400.png" width="75" />      | [Tail](https://www.tail.at) | Tail links exclusive cashback offers from retailers directly to your Starling card. |
-| <img src="https://pbs.twimg.com/profile_images/1221737938641395712/fiu6Uh-m_400x400.jpg" width="75" />      | [ Flux ](https://tryflux.com)    |   Flux's integration allows users to view detailed receipts for their transactions and will give them access to exclusive loyalty schemes |
-| <img src="https://pbs.twimg.com/profile_images/875387223255994370/YLQA6AG6_400x400.jpg" width="75" />      | [ Yolt ](https://www.yolt.com/)    |   Aggregate all of your bank accounts to get a clear view of your finances |
-| <img src="https://pbs.twimg.com/profile_images/1234802271365496839/QG91iHhJ_400x400.jpg" width="75" />      | [ Yoyo Wallet ](https://www.yoyowallet.com/)    |   Upgrade your wallet - loyalty and rewards at major retailers |
-| <img src="https://pbs.twimg.com/profile_images/1215626970601525248/M0ztbrP0_400x400.jpg" width="75" />      | [ PensionBee ](https://www.pensionbee.com/)    |   Combine all your old pensions into one new online plan |
-| <img src="https://pbs.twimg.com/profile_images/1148552661765173248/GZc5bV_c_400x400.png" width="75" />      | [ Emma ](https://emma-app.com/)    |   Emma helps you avoid overdrafts, find and cancel subscriptions, track debt and save money |
-| <img src="https://pbs.twimg.com/profile_images/1224745359873847301/FdAPHuDN_400x400.jpg" width="75" />      | [ Truelayer ](https://truelayer.com/)    |   Helps developers build applications that securely access data and initiate payments in real time |
-| <img src="https://pbs.twimg.com/profile_images/1268862069123809289/7QB3DjvZ_400x400.jpg" width="75" />      | [ Wealthify ](https://wealthify.com/)    |   Wealthify is a smart and affordable way for everyone to invest. |
-| <img src="https://pbs.twimg.com/profile_images/1281486211622809600/Cn0uLLAJ_400x400.png" width="75" />      | [ Habito ](https://habito.com/)    |   Habito are a free online mortgage broker, accessible through the Starling Marketplace |
-| <img src="https://pbs.twimg.com/profile_images/661564824124596225/fDwkUm3N_400x400.jpg" width="75" />      | [ Wealthsimple ](https://wealthsimple.com/)    |   Professional investing made simple and affordable by combining smart technology with expert human advice |
-| <img src="https://pbs.twimg.com/profile_images/807265969827708928/s_61Z-r9_400x400.jpg" width="75" />      | [ Moneyhub ](https://moneyhub.com/)    |   See all your money in one place and use powerful, market-leading tools to achieve your goals |
-| <img src="https://pbs.twimg.com/profile_images/860475868191363072/mikgc0W6_400x400.jpg" width="75" />      | [ Creditladder ](https://creditladder.co.uk/)    |   Make your rent payments count towards building your credit history |
-| <img src="https://pbs.twimg.com/profile_images/444567424776421376/rTP_TgQG_400x400.jpeg" width="75" />      | [ Money Dashboard ](https://www.moneydashboard.com/)    |   UK personal finance app that helps customers stay on top of their money.  |
-| <img src="https://pbs.twimg.com/profile_images/1062287406102179840/CauA4PyX_400x400.jpg" width="75" />      | [ Banked ](https://www.banked.com/)    |   Powering real-time payments for business, banks, and individuals.  |
-
-
 ## Open-Source Community Projects
 - [ starling-bar ](https://github.com/sprusr/starling-bar): Menu bar item for displaying balance (JavaScript)
 - [ SBMBBA ](https://github.com/abdulajet/SBMBBA): Menu bar item for displaying balance (Swift)
