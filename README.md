@@ -24,7 +24,7 @@
 - [ starling-bar ](https://github.com/sprusr/starling-bar): Menu bar item for displaying balance (JavaScript)
 - [ SBMBBA ](https://github.com/abdulajet/SBMBBA): Menu bar item for displaying balance (Swift)
 - [ Starling Terminal ](https://github.com/timrogers/starling-terminal): CLI for connecting to your Starling account
-- [ fintech-to-ynab ](https://github.com/scottrobertson/fintech-to-ynab): Direct transaction sync with [You Need A Budget](https://www.youneedabudget.com).
+- [ fintech-to-ynab ](https://github.com/syncforynab/fintech-to-ynab): Direct transaction sync with [You Need A Budget](https://www.youneedabudget.com).
 - [ starling-export ](https://github.com/scottrobertson/starling-export): Script to export to CSV/QIF
 - [ Savings Automator ](https://github.com/mattdean1/savings-automator): The 0100 Musketeers project from the Hackathon.
 - [ Chirp ](https://github.com/HarriBellThomas/Chirp): Facebook chatbot
