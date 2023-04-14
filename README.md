@@ -38,7 +38,6 @@ Got something awesome to add to this list? We'd love to hear about your project 
 ## Developer Community Activities 
 
 ### Blog Posts
-- [ Next year you’ll be banking with a startup ](https://blog.decoded.com/next-year-youll-be-banking-with-a-startup-8b5fb7e9251d)
 - [ Women can hack(athon) too ](https://medium.com/@michellebrien/women-can-hack-athon-too-1761aac6ed2)
 - [ Our engineering blog ](https://www.starlingbank.com/blog/category/engineering/)
 
