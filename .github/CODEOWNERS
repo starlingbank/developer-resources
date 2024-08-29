@@ -1,0 +1,6 @@
+# CODEOWNERS
+
+# codeowner changes limited to repo admins
+/.github/CODEOWNERS @starlingbank/admin
+
+
